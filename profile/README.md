@@ -12,7 +12,8 @@
   <a href="https://superdevspace.com/download">Download</a> ·
   <a href="https://superdevspace.com/blog">Blog</a> ·
   <a href="https://x.com/superdevspace">X</a> ·
-  <a href="https://www.youtube.com/@superdevspace">YouTube</a>
+  <a href="https://www.youtube.com/@superdevspace">YouTube</a> ·
+  <a href="https://www.linkedin.com/company/superdevspace">LinkedIn</a>
 </p>
 
 SuperDevSpace is a desktop app for macOS, Windows and Linux that turns the AI coding CLI you already pay for — Claude Code, Codex, Gemini CLI — into a team.
